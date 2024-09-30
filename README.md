@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+## Update 1.0 - Release Notes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Changelog:
 
-## Available Scripts
+1. **Background Image Update**
+   - **Changes Made:** Replaced the previous static image with a responsive background image using CSS.
+   - **Impact:** This update ensures better adaptation across various screen sizes, improving the visual consistency on different devices.
 
-In the project directory, you can run:
+2. **Color Customization with CSS Variables**
+   - **Changes Made:** Introduced CSS variables (e.g., `var(--color-name)`) for managing all color schemes.
+   - **Impact:** This change makes it easier to edit and update the color scheme, supporting dynamic theming and ensuring better maintainability.
 
-### `npm start`
+3. **Image Accessibility Fixes**
+   - **Changes Made:** Updated `img` tags to include proper `alt` attributes for all images.
+   - **Impact:** Enhances accessibility, making content more accessible to users with disabilities and improving SEO by providing better content descriptions.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4. **HTML Tag Structure Improvements**
+   - **Changes Made:** Revised and improved the HTML tag structure and semantics.
+   - **Impact:** Positively impacts website performance, SEO, and accessibility by ensuring cleaner and more semantic markup.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Additional Notes:
+- Please review the updated documentation to take full advantage of the new features and improvements.
+- Test the responsive behaviors on various devices to ensure visual consistency.
 
-### `npm test`
+## Update 1.1
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Changes:
+- **Component Fixes:** Various components have been updated and fixed to enhance stability and performance.
+- **New Feature - `datenow`:** Added the `datenow` function which provides the current date and time to enhance functionality.
+- **Improved Search:** Search functionality has been fixed and optimized for better user experience.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Additional Notes:
+- Ensure to update your dependencies to the latest versions to avoid compatibility issues.
