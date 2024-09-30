@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/repair-service/static/css/main.419f6cc4.css",
+    "main.js": "/repair-service/static/js/main.abd3348a.js",
+    "static/js/453.c66b333b.chunk.js": "/repair-service/static/js/453.c66b333b.chunk.js",
+    "static/media/img.png": "/repair-service/static/media/img.93106b4bc8aa5e5a96d6.png",
+    "static/media/instagram.svg": "/repair-service/static/media/instagram.09f6a23f38b286b4ba7683f07faf4576.svg",
+    "static/media/pinterest-4 1.svg": "/repair-service/static/media/pinterest-4 1.001f2282db9f0afd2b7111cd408b2aa4.svg",
+    "static/media/youtube.svg": "/repair-service/static/media/youtube.2b254ffacb8ac5c97958492b40d5d283.svg",
+    "static/media/Settings icon.svg": "/repair-service/static/media/Settings icon.ed31583fea3372e12dfe42def22c285a.svg",
+    "static/media/Search icon.svg": "/repair-service/static/media/Search icon.28061b70d3e04cc8a4c8015c92b45ad4.svg",
+    "static/media/little-facebook-logo-svgrepo-com 1.svg": "/repair-service/static/media/little-facebook-logo-svgrepo-com 1.53e9c80ec93c72481f42a8233c094333.svg",
+    "static/media/check-mark.svg": "/repair-service/static/media/check-mark.07ff548ce34f9c46fadc.svg",
+    "static/media/phone-basic.svg": "/repair-service/static/media/phone-basic.8a4ab59bd00e53fcc5e08a776f760eab.svg",
+    "static/media/phone.svg": "/repair-service/static/media/phone.6259415e86bea8199d55bf440e74afd8.svg",
+    "index.html": "/repair-service/index.html",
+    "main.419f6cc4.css.map": "/repair-service/static/css/main.419f6cc4.css.map",
+    "main.abd3348a.js.map": "/repair-service/static/js/main.abd3348a.js.map",
+    "453.c66b333b.chunk.js.map": "/repair-service/static/js/453.c66b333b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.419f6cc4.css",
+    "static/js/main.abd3348a.js"
+  ]
+}
